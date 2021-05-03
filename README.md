@@ -1,7 +1,11 @@
 # wh-speedprj-blumen-rKremser
 
-### Project description: 
-Introduction/Project summary 
+### Project description:
+- Blank screen am Anfang
+- Input (Key, space/k)
+- abhängig vom Input
+- Space x-mal gedrückt
+- 
 
 ### Development platform: 
 Mac OS, Unity 2020.1.5f1, Visual Studio 2019, no SDKs
